@@ -18,6 +18,12 @@ Redux-Saga is a library that aims to make application side effects (i.e. asynchr
 **Note: this is a for practice purpose not for your own use!**
 
 ## Command for installation
+# For create a project
+## npx create-react-app react-router-6 --template typescript
+# or
+## yarn create react-app react-router-6 --template typescript
+
+
 
 ### `npm install`
 ### `npm start`
